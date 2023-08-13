@@ -15,8 +15,8 @@ root.config(background="#404040")
 
 # Find your Account SID and Auth Token at twilio.com/console
 # and set the environment variables. See http://twil.io/secure
-account_sid = 'ACaf700a694387d512218cac4b3a7baac1'
-auth_token = '9987584a700ec337caa44de294558be3'
+account_sid = ''
+auth_token = ''
 client = Client(account_sid, auth_token)
 
 
